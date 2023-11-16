@@ -44,7 +44,7 @@ I would love to improve the game in the future, by:
 
 ---
 
-## What I struggled with
+## Problems and how they were resolved
 
 The main issue I had to overcome when designing the game was how to get the cascade working. My first attempt at the cascade - that is, having all empty squares reveal themselves when the user clicks on an empty square - functioned _almost_ how I wanted it to, minus a few bugs, and was hundreds of lines long. It was unwieldy, didn't really do what I wanted, and very, very repetitive. Despite being messy, writing that initial code taught me a lot and made me really think about how I wanted the game to work.
 
