@@ -2,11 +2,11 @@
 
 ## Demo & Snippets
 
-### The cascade in action:
+The cascade in action:
 
 <img src="./images/the-cascade.png" alt="The cascade in action" width="200"/>
 
-### Playing again after losing the game:
+Playing again after losing the game:
 
 <img src="./images/lost-the-game.png" alt="Playing again after losing the game" width="200"/>
 
