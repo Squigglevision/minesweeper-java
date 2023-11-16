@@ -52,5 +52,3 @@ I then thought about how I could refactor that code, and make it more efficient,
 The way that method would work would be that if my code knew that the user was selecting an empty square, it would check to see if that square had already been revealed. If it hadn't been revealed already, it would pop all the surrounding empty squares into an array list, and then run the method on each item in the array if they hadn't already been revealed.
 
 Once I implemented recursion, I found that I could solve the problem with under twenty lines of code, compared to the hundreds I had been writing previously, and fix all the bugs my previous code had introduced to the game.
-
----
